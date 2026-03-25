@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>64c2c6ba-a56d-4750-8771-5a72d2d8acb4</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>copyUIAxes</name>
+  <author>Adam Danz</author>
+  <version>4.0.1</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/64c2c6ba-a56d-4750-8771-5a72d2d8acb4/32866c46-dd7f-49de-a42d-b4a3586cb1ea/packages/zip?src=addons_ml_desktop_install&amp;profile_id=5182110&amp;license=863987&amp;release_family=R2021a</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/64c2c6ba-a56d-4750-8771-5a72d2d8acb4/4.0.1.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/64c2c6ba-a56d-4750-8771-5a72d2d8acb4/32866c46-dd7f-49de-a42d-b4a3586cb1ea/images/screenshot.png</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/64c2c6ba-a56d-4750-8771-5a72d2d8acb4/32866c46-dd7f-49de-a42d-b4a3586cb1ea/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>
